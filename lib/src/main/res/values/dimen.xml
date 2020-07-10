@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <dimen name="default_title_height">40dp</dimen>
+    <dimen name="default_title_text_size">16sp</dimen>
+    <!--标题文字距离左边距离-->
+    <dimen name="default_title_text_margin_left">10dp</dimen>
+    <bool name="hasTitle">false</bool>
+</resources>

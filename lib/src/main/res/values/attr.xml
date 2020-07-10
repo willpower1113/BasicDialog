@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BasicLayout">
+        <!--背景颜色-->
+        <attr name="color" format="color"></attr>
+        <!--边框颜色-->
+        <attr name="radio" format="dimension"></attr>
+        <!--是否显示Title-->
+        <attr name="hasTitle" format="boolean"></attr>
+        <!--title 颜色-->
+        <attr name="titleColor" format="color"></attr>
+        <!--title 文字颜色-->
+        <attr name="titleTextColor" format="color"></attr>
+        <!--title 高度-->
+        <attr name="titleHeight" format="dimension"></attr>
+        <!--title 文字-->
+        <attr name="titleText" format="string"></attr>
+    </declare-styleable>
+
+
+</resources>
